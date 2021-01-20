@@ -1,16 +1,33 @@
-### Hi there 👋
+Welcome to my  Github Readme ! :vulcan_salute:
 
-<!--
-**Sorikairox/sorikairox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Things I love :heart_eyes:  
+ 
+- TDD 
+- Typescript
+- Node (Express, Strapi, Koa, Nest)
+- MongoDB 
+- Angular (2~11)
+- Mocha/Chai/Istanbul for TDD
+- CI/CD
+- AMQP
+- Microservices architecture
+- Cats
 
-Here are some ideas to get you started:
+Things I like :nerd_face: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- VueJS 
+- AWS - > EKS, SNS, Lambda Functions 
+- Electron
+- Scala 
+- Go (Gofiber), it will probably end in the "things I love" list :wink:
+- Redis
+
+Books I've read and think that every dev should have read :eyes:
+
+- "Clean Code" and "The Clean Coder" by Robert C Martin (you know Uncle Bob)
+
+Books I'll read in the next few weeks  :
+
+- "The Pragmatic Programmer" by Dave Thomas
+- "Design Patterns" by the GOF 

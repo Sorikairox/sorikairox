@@ -25,7 +25,10 @@ Things I like :nerd_face:
 
 Books I've read and think that every dev should have read :eyes:
 
+
 - "Clean Code" and "The Clean Coder" by Robert C Martin (you know Uncle Bob)
+- "Microservice Architecture: Aligning Principles, Practices and Culture" by Mike Amundsen, Matt McLarty, Ronnie Mitra, and Irakli.
+- "TDD by example" by Kent Beck
 
 Books I'll read in the next few weeks  :
 

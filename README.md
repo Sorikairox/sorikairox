@@ -6,7 +6,7 @@ Things I love :heart_eyes:
 - Typescript
 - Node (Express, Strapi, Koa, Nest)
 - MongoDB 
-- Angular (2~11)
+- Angular
 - Mocha/Chai/Istanbul for TDD
 - CI/CD
 - AMQP

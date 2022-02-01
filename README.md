@@ -4,7 +4,7 @@ Things I love :heart_eyes:
  
 - TDD 
 - Typescript
-- Node (Express, Strapi, Koa, Nest)
+- Node (Nest > Express)
 - MongoDB 
 - Angular
 - Mocha/Chai/Istanbul for TDD
@@ -20,7 +20,7 @@ Things I like :nerd_face:
 - AWS - > EKS, SNS, Lambda Functions 
 - Electron
 - Scala 
-- Go (Gofiber), it will probably end in the "things I love" list :wink:
+- Go (Gofiber)
 - Redis
 
 Books I've read and think that every dev should have read :eyes:

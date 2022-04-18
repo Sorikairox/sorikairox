@@ -4,7 +4,7 @@ Things I love :heart_eyes:
  
 - TDD 
 - Typescript
-- Node (Nest > Express)
+- Node (Nest)
 - MongoDB 
 - Angular
 - Mocha/Chai/Istanbul for TDD

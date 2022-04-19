@@ -1,7 +1,7 @@
 # Sup ! My name is Thomas 🍕
 
 ## Things I use the most
------
+
 - TDD 
 - Typescript
 - Node (Nest)
@@ -11,7 +11,7 @@
 - CI/CD
 - AMQP
 - Microservices architecture
-------
+
 ## Things I can use 
 
 - PHP
@@ -21,7 +21,6 @@
 - Scala 
 - Go (Gofiber)
 - Redis
-----
 ## Books I've read and think that every dev should have read
 
 

@@ -1,26 +1,17 @@
 # Sup ! My name is Thomas 🍕
 
-## Things I use the most
+## Work related
 
-- TDD 
-- Typescript
-- Node (Nest)
-- MongoDB 
-- Angular
-- Mocha/Chai/Istanbul for TDD
-- CI/CD
-- AMQP
-- Microservices architecture
+Check out [my linkedin bio for detailed information](https://www.linkedin.com/in/thomascruveilher/)
 
-## Things I can use 
+## Open source
 
-- PHP
-- VueJS 
-- AWS - > EKS, SNS, Lambda Functions 
-- Electron
-- Scala 
-- Go (Gofiber)
-- Redis
+- Creator of [Danet: a savory web framework for Deno](https://github.com/Sorikairox/Danet)
+- Creator of [Dirtybiologistan](https://github.com/Sorikairox/Micronation)
+- Contributing to [Deno Standard Library](https://github.com/denoland/deno_std)
+
+I mainly use Typescript, but I'm learning Rust.
+
 ## Books I've read and think that every dev should have read
 
 

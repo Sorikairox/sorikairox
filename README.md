@@ -10,7 +10,7 @@ Check out [my linkedin bio for detailed information](https://www.linkedin.com/in
 - Creator of [Dirtybiologistan](https://github.com/Sorikairox/Micronation)
 - Contributing to [Deno Standard Library](https://github.com/denoland/deno_std)
 
-I mainly use Typescript, but I'm learning Rust.
+I mainly use Typescript.
 
 ## Books I've read and think that every dev should have read
 

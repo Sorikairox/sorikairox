@@ -8,7 +8,7 @@ Check out [my linkedin bio for detailed information](https://www.linkedin.com/in
 
 ## Open source
 
-- Creator of [Danet: a savory web framework for Deno](https://github.com/Sorikairox/Danet)
+- Creator of [Danet: a savory web framework for Deno](https://github.com/Savory/Danet)
 - Creator of [Dirtybiologistan](https://github.com/Sorikairox/Micronation)
 - Contributing to [Deno Standard Library](https://github.com/denoland/deno_std)
 

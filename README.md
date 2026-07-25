@@ -1,7 +1,5 @@
 # Sup ! My name is Thomas 🍕
 
-![Sorikairo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorikairox&count_private=true&theme=onedark)
-
 ## Work related
 
 Check out [my linkedin bio for detailed information](https://www.linkedin.com/in/thomascruveilher/)

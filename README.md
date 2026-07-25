@@ -21,9 +21,10 @@ I mainly use Typescript, but any non-100% FP language is fine (I am looking at E
 - "TDD by example" by Kent Beck
 - "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman" by Adewale Oshineye, Dave Hoover
 - "The Pragmatic Programmer" by Dave Thomas
-
-## Book I'm re-reading : 
 - "Design Patterns" by the GOF 
 
+## Book I'm re-reading : 
+- "The Pragmatic Programmer" by Dave Thomas
+
 ## Book I'll read right after :
-Any suggestion is cool !
+Suggestions are welcome!

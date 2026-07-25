@@ -6,9 +6,10 @@ Check out [my linkedin bio for detailed information](https://www.linkedin.com/in
 
 ## Open source
 
-- Creator of [Danet: a savory web framework for Deno](https://github.com/Savory/Danet)
+- Creator of [Danet: a savory web framework for Deno](https://github.com/Savory/Danet) and its ecosystem
 - Creator of [Dirtybiologistan](https://github.com/Sorikairox/Micronation)
-- Contributing to [Deno Standard Library](https://github.com/denoland/deno_std)
+- Contributed to [Deno Standard Library](https://github.com/denoland/deno_std)
+- Contributed to [OpenFront](https://github.com/openfrontio/OpenFrontIO)
 
 I mainly use Typescript, but any non-100% FP language is fine (I am looking at Elixir though).
 
